@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "543f",
+      "firstName": "vikrant",
+      "lastName": "chaudhary",
+      "email": "vikrantchaudhary258@gmail.com",
+      "dob": "2001-07-30T18:30:00.000Z",
+      "gender": "male",
+      "education": "graduate",
+      "company": "ashmar",
+      "experience": 2,
+      "package": 400000
+    },
+    {
+      "id": "be3e",
+      "firstName": "arsh",
+      "lastName": "yadav",
+      "email": "arshyadav23@gmail.com",
+      "dob": "2003-12-11T18:30:00.000Z",
+      "gender": "male",
+      "education": "intermediate",
+      "company": "ashmar",
+      "experience": 12,
+      "package": 500000
+    }
+  ]
+}
